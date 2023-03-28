@@ -41,3 +41,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+/*
+기본적으로 왼쪽 또는 오른쪽에 붙어있고 드래그하면 반대쪽으로 옮길 수 있다.
+ */
